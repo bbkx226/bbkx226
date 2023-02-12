@@ -38,7 +38,6 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 #
 
 ### 📊 Stats
-theme_name
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby)
 
 
