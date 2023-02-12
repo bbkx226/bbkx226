@@ -35,6 +35,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <img align="left" alt="Microsoft SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 
+
 #
 ### 📊 Stats
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby)
