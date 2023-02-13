@@ -1,15 +1,15 @@
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
-    <h2>😎 Brandon Ban</h2>
-    <img width="180px" height="180px" src="./assets/luffy.gif"/>
+    <p style="font-size:32px;color:white;font-family:Rockwell" align="left">😎 Brandon Ban</p>
+    <img align="right" width="180px" height="180px" src="./assets/luffy.gif"/>
 </div>
 
 **`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|Machine Learning]`**
 
-<p style='text-align: justify;'>
+<p style='text-align: justify;font-family:Rockwell;color:white'>
 Welcome to my Github profile, I'm Brandon! As a highly motivated and disciplined computer science student, I am deeply committed to pursuing a career in full stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full stack developer. 
 </p>
-<p style='text-align: justify;'>
+<p style='text-align: justify;font-family:Rockwell;color:white'>
 My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed, those that were inspired by instructional resources, and those that were created through collaborative efforts with other aspiring developers. For a comprehensive overview of my qualifications and expertise, I kindly direct you to my <a href="https://www.bbkx.live/">portfolio website</a>.
 </p>
 
@@ -32,15 +32,12 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <a href="https://github.com/bbkx226">
         <img src="https://komarev.com/ghpvc/?username=bbkx226&color=blueviolet&style=for-the-badge&label=Profile+Views">
     </a>
-
 </p>
 
+<p style="font-size:32px;color:white;font-family:Rockwell" align="left">🌟 Languages & Tools</p>
 <div>
-    <h2>🌟 Languages & Tools</h2>
     <img align="left" src="./assets/dog.gif" width="120" height="140" />
     <img align="right" src="./assets/cat.gif" width="120" height="120" />
-</div>
-<div>
     <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -66,13 +63,14 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
+#
+<p style="font-size:32px;color:white;font-family:Rockwell" align="left">📊 GitHub Stats</p>
 
-<h2>📊 GitHub Stats</h2>
 <div align="center">
-    <img float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/bbkx226?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
-    <img align="center" src="./assets/bear.gif" width="260" height="240" />
-    <img float="right" src="https://streak-stats.demolab.com/?user=bbkx226&theme=great-gatsby&mode=weekly&date_format=M j[, Y]">
-    <img float="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12">
+    <img width="320px" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/bbkx226?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
+    <img align="center" src="./assets/bear.gif" width="120" height="120" />
+    <img width="320px" height="200px" float="right" src="https://streak-stats.demolab.com/?user=bbkx226&theme=great-gatsby&mode=weekly&date_format=M j[, Y]">
+    <img float="center" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12">
 </div>
 
 #
