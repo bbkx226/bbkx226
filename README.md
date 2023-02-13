@@ -1,6 +1,8 @@
 <img src="./assets/mario.gif" alt="banner">
+<hr style="border:1px">
 
 <h1 align="center">😎 Brandon Ban</h1>
+<div align="center"><img width="180px" height="180px" src="./assets/luffy.gif"/></div>
 
 **`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|Machine Learning]`**
 
@@ -29,7 +31,6 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <img src="https://komarev.com/ghpvc/?username=bbkx226&color=blueviolet&style=for-the-badge&label=Profile+Views">
 </p>
 
-#
 <details>
     <summary>
         <h2>🌟 Languages & Tools</h2>
@@ -71,6 +72,12 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby&count_private=true">
     </div>
+    <div align="center">
+        <a href="https://www.holopin.io/@bbkx226">
+            <img src="https://www.holopin.io/bbkx226" alt="@Brandon's Holopin board" />
+        </a>
+    </div>
+
 </details>
 
 #
