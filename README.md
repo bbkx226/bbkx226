@@ -32,7 +32,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 #
 <details>
     <summary>
-        🌟 Languages & Tools
+        <h2>🌟 Languages & Tools</h2>
     </summary>
     <div>
         <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
@@ -62,23 +62,36 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
         <br>
     </div>
 </details>
-#
-### 📊 Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby&count_private=true">
-</p>
 
 #
-### 💪 Streak Stats
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=bbkx226&theme=dark">
-</p>
+<details>
+    <summary>
+        <h2>📊 GitHub Stats</h2>
+    </summary>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby&count_private=true">
+    </div>
+</details>
 
 #
-### 🧰 Most used Languages
-<p align="center">
+<details>
+    <summary>
+        <h2>💪 Streak Stats</h2>
+    </summary>
+    <div align="center">
+        <img src="https://streak-stats.demolab.com/?user=bbkx226&theme=dark">
+    </div>
+</details>
+
+#
+<details>
+    <summary>
+        <h2>🧰 Most used Languages</h2>
+    </summary>
+    <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact">
-</p>
+    </div>
+</details>
 
 
 
