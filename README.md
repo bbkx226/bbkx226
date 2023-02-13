@@ -36,9 +36,6 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 </p>
 
 <br />
-<br />
-
-#
 <h2 align="left">🌟 Languages & Tools</h2>
 <div>
     <img align="left" src="./assets/dog.gif" width="120" height="140" />
@@ -69,9 +66,6 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 </div>
 
 <br />
-<br />
-
-#
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -81,9 +75,11 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <br />
 <br />
 
-#
 <h2 align="left">🧰 Top used Languages</h2>
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12" />
+<div align="center">
+<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12" />
+</div>
+
 
 
 
