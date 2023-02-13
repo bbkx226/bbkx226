@@ -1,4 +1,4 @@
-# 😎 Brandon Ban
+<h1 align="center">😎 Brandon Ban</h1>
 
 **`Web Developer Enthusiast[Undergraduate Student|Full Stack Developer|Machine Learning]`**
 
@@ -16,7 +16,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <a href="https://www.facebook.com/bbkx.0226/">
         <img alt="Facebook" title="Contact me via Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbkx2261212%2Fhit-counter">
+    ![](https://komarev.com/ghpvc/?username=bbkx226&color=blueviolet&style=for-the-badge&label=Profile+Views)
 </p>
 
 #
@@ -36,7 +36,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <img align="left" alt="Microsoft SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 
-#
+
 ### 📊 Stats
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby)
 
