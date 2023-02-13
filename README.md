@@ -34,7 +34,11 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     </a>
 </p>
 
-<p style="font-size:32px;color:white;font-family:Rockwell" align="left">🌟 Languages & Tools</p>
+<br />
+<br />
+
+#
+<h3 style="font-size:32px;color:white;font-family:Rockwell" align="left">🌟 Languages & Tools</h3>
 <div>
     <img align="left" src="./assets/dog.gif" width="120" height="140" />
     <img align="right" src="./assets/cat.gif" width="120" height="120" />
@@ -63,16 +67,21 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
+<br />
+<br />
+
 #
-<p style="font-size:32px;color:white;font-family:Rockwell" align="left">📊 GitHub Stats</p>
+<h3 style="font-size:32px;color:white;font-family:Rockwell" align="left">📊 GitHub Stats</h3>
 
 <div align="center">
     <img width="360px" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/bbkx226?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
     <img width="400px" height="180px" float="right" src="https://streak-stats.demolab.com/?user=bbkx226&theme=great-gatsby&mode=weekly&date_format=M j[, Y]">
 </div>
+<br />
+<br />
 
 #
-<p style="font-size:32px;color:white;font-family:Rockwell" align="left">🧰 Top used Languages</p>
+<h3 style="font-size:32px;color:white;font-family:Rockwell" align="left">🧰 Top used Languages</h3>
 <p style="text-align:center;">
     <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12" />
 </p>
