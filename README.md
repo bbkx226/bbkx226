@@ -29,7 +29,10 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <a href="https://www.facebook.com/bbkx.0226/">
         <img alt="Facebook" title="Contact me via Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=bbkx226&color=blueviolet&style=for-the-badge&label=Profile+Views">
+    <a href="https://github.com/bbkx226">
+        <img src="https://komarev.com/ghpvc/?username=bbkx226&color=blueviolet&style=for-the-badge&label=Profile+Views">
+    </a>
+
 </p>
 
 <h3>🌟 Languages & Tools</h3>
@@ -63,16 +66,16 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <h3>📊 GitHub Stats</h3>
 
 <div align="center">
-    <img width="360px" src="https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby&count_private=true">
 </div>
 <br />
 <div align="center">
-    <img width="360px" src="https://streak-stats.demolab.com/?user=bbkx226&theme=dark">
+    <img src="https://streak-stats.demolab.com/?user=bbkx226&theme=dark">
 </div>
 <br />
 <div align="center">
     <a href="https://www.holopin.io/@bbkx226">
-        <img width="360px" src="https://www.holopin.me/bbkx226" alt="@Brandon's Holopin board" />
+        <img src="https://www.holopin.me/bbkx226" alt="@Brandon's Holopin board" />
     </a>
 </div>
 <div align="right">
