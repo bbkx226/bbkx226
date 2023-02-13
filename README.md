@@ -1,6 +1,6 @@
 <h1 align="center">😎 Brandon Ban</h1>
 
-**`Web Developer Enthusiast[Undergraduate Student|Full Stack Developer|Machine Learning]`**
+**`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|Machine Learning]`**
 
 Welcome to my Github profile, I'm Brandon! As a highly motivated and enthusiastic computer science student, I am deeply committed to pursuing a career in full stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full stack developer. 
 
@@ -39,11 +39,16 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 
 #
 ### 📊 Stats
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby)
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby&count_private=true)
 
 #
-### Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bbkx226&theme=dark)](https://git.io/streak-stats)
+### 💪 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=bbkx226&theme=dark)
+
+#
+### 🧰 Most used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact)
+
 
 
 
