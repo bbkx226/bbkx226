@@ -36,7 +36,8 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 </p>
 
 <div>
-    <h3 align="left">🌟 Languages & Tools</h3>
+    <h2>🌟 Languages & Tools</h2>
+    <img align="left" src="./assets/dog.gif" width="120" height="140" />
     <img align="right" src="./assets/cat.gif" width="120" height="120" />
 </div>
 <div>
@@ -66,33 +67,22 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 </div>
 
 
-<h3>📊 GitHub Stats</h3>
+<h2>📊 GitHub Stats</h2>
+<div align="center">
+    <img float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/bbkx226?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
+    <img align="center" src="./assets/bear.gif" width="260" height="240" />
+    <img float="right" src="https://streak-stats.demolab.com/?user=bbkx226&theme=great-gatsby&mode=weekly&date_format=M j[, Y]">
+    <img float="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12">
+</div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby&count_private=true">
-</div>
-<br />
-<div align="center">
-    <img src="https://streak-stats.demolab.com/?user=bbkx226&theme=dark">
-</div>
-<br />
+#
 <div align="center">
     <a href="https://www.holopin.io/@bbkx226">
-        <img src="https://www.holopin.me/bbkx226" alt="@Brandon's Holopin board" />
+        <img float="left" src="https://www.holopin.me/bbkx226" alt="@Brandon's Holopin board" />
     </a>
 </div>
-<div align="right">
-    <img src="./assets/dog.gif" width="120" height="140" />
-</div>
 
-
-<h3>🧰 Most used Languages</h3>
-<div align="center">
-    <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact">
-</div>
-<div align="right">
-    <img src="./assets/bear.gif" width="140" height="140" />
-</div>
+<img align="center" src="./assets/space.gif"/>
 
 
 
