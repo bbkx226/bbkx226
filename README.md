@@ -2,9 +2,11 @@
 
 **`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|Machine Learning]`**
 
+<p text-align="justify">
 Welcome to my Github profile, I'm Brandon! As a highly motivated and disciplined computer science student, I am deeply committed to pursuing a career in full stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full stack developer. 
 
 My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed, those that were inspired by instructional resources, and those that were created through collaborative efforts with other aspiring developers. For a comprehensive overview of my qualifications and expertise, I kindly direct you to my <a href="https://www.bbkx.live/">portfolio website</a>.
+</p>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bbkx/">
