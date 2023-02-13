@@ -4,7 +4,7 @@
 
 Welcome to my Github profile, I'm Brandon! As a highly motivated and enthusiastic computer science student, I am deeply committed to pursuing a career in full stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full stack developer. 
 
-My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed, those that were inspired by instructional resources, and those that were created through collaborative efforts with other aspiring developers. For a comprehensive overview of my qualifications and expertise, I kindly direct you to my [portfolio website][https://www.bbkx.live/].
+My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed, those that were inspired by instructional resources, and those that were created through collaborative efforts with other aspiring developers. For a comprehensive overview of my qualifications and expertise, I kindly direct you to my ![portfolio website][https://www.bbkx.live/].
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bbkx/">
@@ -16,7 +16,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <a href="https://www.facebook.com/bbkx.0226/">
         <img alt="Facebook" title="Contact me via Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    ![](https://komarev.com/ghpvc/?username=bbkx226&color=blueviolet&style=for-the-badge&label=Profile+Views)
+    <img src="https://komarev.com/ghpvc/?username=bbkx226&color=blueviolet&style=for-the-badge&label=Profile+Views">
 </p>
 
 #
@@ -36,7 +36,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <img align="left" alt="Microsoft SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 
-
+======
 ### 📊 Stats
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby)
 
