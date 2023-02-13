@@ -67,21 +67,15 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <p style="font-size:32px;color:white;font-family:Rockwell" align="left">📊 GitHub Stats</p>
 
 <div align="center">
-    <img width="320px" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/bbkx226?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
-    <img align="center" src="./assets/bear.gif" width="120" height="120" />
-    <img width="320px" height="200px" float="right" src="https://streak-stats.demolab.com/?user=bbkx226&theme=great-gatsby&mode=weekly&date_format=M j[, Y]">
-    <img float="center" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12">
+    <img width="360px" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/bbkx226?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
+    <img width="400px" height="180px" float="right" src="https://streak-stats.demolab.com/?user=bbkx226&theme=great-gatsby&mode=weekly&date_format=M j[, Y]">
 </div>
 
 #
-<div align="center">
-    <a href="https://www.holopin.io/@bbkx226">
-        <img float="left" src="https://www.holopin.me/bbkx226" alt="@Brandon's Holopin board" />
-    </a>
-</div>
-
-<img align="center" src="./assets/space.gif"/>
-
+<p style="font-size:32px;color:white;font-family:Rockwell" align="left">🧰 Top used Languages</p>
+<p style="text-align:center;">
+    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12" />
+</p>
 
 
 
