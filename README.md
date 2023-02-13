@@ -35,7 +35,10 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 
 </p>
 
-<h3>🌟 Languages & Tools</h3>
+<div>
+    <h3 align="left">🌟 Languages & Tools</h3>
+    <img align="right" src="./assets/cat.gif" width="120" height="120" />
+</div>
 <div>
     <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -61,7 +64,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
-<div align="right"><img src="./assets/cat.gif" width="120" height="120" /></div>
+
 
 <h3>📊 GitHub Stats</h3>
 
