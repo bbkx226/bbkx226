@@ -1,15 +1,16 @@
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
-    <p style="font-size:32px;color:white;font-family:Rockwell" align="left">😎 Brandon Ban</p>
+    <h1 align="left">😎 Brandon Ban</h1>
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif"/>
 </div>
 
 **`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|Machine Learning]`**
 
-<p style='text-align: justify;font-family:Rockwell;color:white'>
+<p style='text-align: justify;'>
 Welcome to my Github profile, I'm Brandon! As a highly motivated and disciplined computer science student, I am deeply committed to pursuing a career in full stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full stack developer. 
 </p>
-<p style='text-align: justify;font-family:Rockwell;color:white'>
+
+<p style='text-align: justify;'>
 My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed, those that were inspired by instructional resources, and those that were created through collaborative efforts with other aspiring developers. For a comprehensive overview of my qualifications and expertise, I kindly direct you to my <a href="https://www.bbkx.live/">portfolio website</a>.
 </p>
 
@@ -38,7 +39,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <br />
 
 #
-<h3 style="font-size:32px;color:white;font-family:Rockwell" align="left">🌟 Languages & Tools</h3>
+<h2 align="left">🌟 Languages & Tools</h2>
 <div>
     <img align="left" src="./assets/dog.gif" width="120" height="140" />
     <img align="right" src="./assets/cat.gif" width="120" height="120" />
@@ -71,7 +72,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <br />
 
 #
-<h3 style="font-size:32px;color:white;font-family:Rockwell" align="left">📊 GitHub Stats</h3>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
     <img width="360px" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/bbkx226?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
@@ -81,10 +82,9 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <br />
 
 #
-<h3 style="font-size:32px;color:white;font-family:Rockwell" align="left">🧰 Top used Languages</h3>
-<p style="text-align:center;">
-    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12" />
-</p>
+<h2 align="left">🧰 Top used Languages</h2>
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12" />
+
 
 
 
