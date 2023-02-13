@@ -1,6 +1,6 @@
 <img src="./assets/mario.gif" alt="banner">
-<hr style="border:1px">
 
+#
 <h1 align="center">😎 Brandon Ban</h1>
 <div align="center"><img width="180px" height="180px" src="./assets/luffy.gif"/></div>
 
@@ -63,6 +63,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
         <br>
     </div>
 </details>
+<div align="right"><img src="./assets/cat.gif" width="60" height="60" /></div>
 
 #
 <details>
