@@ -18,9 +18,6 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <a href="https://www.linkedin.com/in/bbkx/">
         <img alt="LinkedIn" title="Checkout My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://api.whatsapp.com/send?phone=60162989269&text=Hi!%20I%27d%20like%20to%20get%20more%20information.">
-        <img alt="WhatsApp" title="Contact me via WhatsApp" src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
     <a href="mailto:bbkx226@gmail.com">
         <img alt="E-mail" title="Contact me via E-mail" src="https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white">
     </a>
