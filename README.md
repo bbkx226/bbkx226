@@ -1,6 +1,4 @@
 <img src="./assets/mario.gif" alt="banner">
-
-
 <div align="center">
     <h2>😎 Brandon Ban</h2>
     <img width="180px" height="180px" src="./assets/luffy.gif"/>
@@ -62,20 +60,19 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 </div>
 <div align="right"><img src="./assets/cat.gif" width="120" height="120" /></div>
 
-#
 <h3>📊 GitHub Stats</h3>
 
 <div align="center">
-    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby&count_private=true">
+    <img width="360px" src="https://github-readme-stats.vercel.app/api?username=bbkx226&show_icons=true&theme=great-gatsby&count_private=true">
 </div>
 <br />
 <div align="center">
-    <img width="450px" src="https://streak-stats.demolab.com/?user=bbkx226&theme=dark">
+    <img width="360px" src="https://streak-stats.demolab.com/?user=bbkx226&theme=dark">
 </div>
 <br />
 <div align="center">
     <a href="https://www.holopin.io/@bbkx226">
-        <img width="450px" src="https://www.holopin.me/bbkx226" alt="@Brandon's Holopin board" />
+        <img width="360px" src="https://www.holopin.me/bbkx226" alt="@Brandon's Holopin board" />
     </a>
 </div>
 <div align="right">
@@ -85,7 +82,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 
 <h3>🧰 Most used Languages</h3>
 <div align="center">
-    <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact">
+    <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact">
 </div>
 <div align="right">
     <img src="./assets/bear.gif" width="140" height="140" />
