@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 <img src="./assets/mario.gif" alt="banner">
 
->>>>>>> 1f6dce1 (Ver 10)
 <h1 align="center">😎 Brandon Ban</h1>
 
 **`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|Machine Learning]`**
