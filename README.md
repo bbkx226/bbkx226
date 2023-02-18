@@ -11,7 +11,7 @@ Welcome to my Github profile, I'm Brandon! As a highly motivated and disciplined
 </p>
 
 <p style='text-align: justify;'>
-My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed, those that were inspired by instructional resources, and those that were created through collaborative efforts with other aspiring developers. For a comprehensive overview of my qualifications and expertise, I kindly direct you to my <a target="_blank" href="https://www.bbkx.live/">portfolio website</a> or <a target="_blank" href="https://bbkxterminal.web.app/">portfolio website</a>. 
+My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed, those that were inspired by instructional resources, and those that were created through collaborative efforts with other aspiring developers. For a comprehensive overview of my qualifications and expertise, I kindly direct you to my <a target="_blank" href="https://www.bbkx.live/">portfolio website</a> or <a target="_blank" href="https://bbkxterminal.web.app/">terminal website</a>. 
 </p>
 
 <p align="left">
