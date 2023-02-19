@@ -79,6 +79,39 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12" />
 </div>
 
+<h2 align="left">📌 GitHub Repo</h2>
+<div align="center">
+    <a href="https://github.com/bbkx226/terminalWebsite" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=terminalWebsite&show_owner=true"/>
+    </a>
+    <a href="https://github.com/bbkx226/AlphaGoSpirit" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AlphaGoSpirit&show_owner=true"/>
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/bbkx226/Discord-Bot" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Discord-Bot&show_owner=true"/>
+    </a>
+    <a href="https://github.com/bbkx226/ImageGenerationAI" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=ImageGenerationAI&show_owner=true"/>
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/bbkx226/Full-Stack-2023" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Full-Stack-2023&show_owner=true"/>
+    </a>
+    <a href="https://github.com/bbkx226/Leetcode-Daily-Practice" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Leetcode-Daily-Practice&show_owner=true"/>
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/bbkx226/Informatics-Innopolis-2022" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Informatics-Innopolis-2022&show_owner=true"/>
+    </a>
+    <a href="https://github.com/bbkx226/School-Project" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=School-Project&show_owner=true"/>
+    </a>
+</div>
 
 
 
