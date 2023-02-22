@@ -108,9 +108,6 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <a href="https://github.com/bbkx226/Informatics-Innopolis-2022" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Informatics-Innopolis-2022&hide=stars&show_owner=true"/>
     </a>
-    <a href="https://github.com/bbkx226/School-Project" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=School-Project&hide=stars&show_owner=true"/>
-    </a>
 </div>
 
 
