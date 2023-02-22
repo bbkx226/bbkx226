@@ -69,7 +69,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 
 <div align="center">
     <img width="360px" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/bbkx226?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
-    <img width="400px" height="180px" float="right" src="https://streak-stats.demolab.com/?user=bbkx226&theme=great-gatsby&mode=weekly&date_format=M j[, Y]">
+    <img width="400px" height="180px" float="right" src="https://streak-stats.demolab.com/?user=bbkx226&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
 </div>
 <br />
 <br />
