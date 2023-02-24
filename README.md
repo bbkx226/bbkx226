@@ -1,7 +1,7 @@
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
     <h1 align="left">😎 Brandon Ban</h1>
-    <img align="right" width="180px" height="180px" src="./assets/luffy.gif"/>
+    <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
 **`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|Machine Learning]`**
@@ -35,8 +35,8 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <br />
 <h2 align="left">🌟 Languages & Tools</h2>
 <div>
-    <img align="left" src="./assets/dog.gif" width="120" height="140" />
-    <img align="right" src="./assets/cat.gif" width="120" height="120" />
+    <img align="left" src="./assets/dog.gif" width="120" height="140" loop="infinite"/>
+    <img align="right" src="./assets/cat.gif" width="120" height="120" loop="infinite"/>
     <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
