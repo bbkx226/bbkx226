@@ -110,7 +110,11 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     </a>
 </div>
 
-
+<br />
+<h2 align="left">🐍 GitHub Contribution</h2>
+<div align="center">
+    <img src="https://github.com/bbkx226/bbkx226/blob/output/github-contribution-grid-snake.svg?palette=github-dark" />
+</div>
 
 
 
