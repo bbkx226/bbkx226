@@ -1,13 +1,13 @@
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
-    <h1 align="left">😎 Brendon Ben</h1>
+    <h1 align="left">😎 Brandon Ban</h1>
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
 **`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|Machine Learning]`**
 
 <p style='text-align: justify;'>
-Welcome to my Github profile, I'm Brendon! As a highly motivated and disciplined computer science student, I am deeply committed to pursuing a career in full stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full stack developer. 
+Welcome to my Github profile, I'm Brandon! As a highly motivated and disciplined computer science student, I am deeply committed to pursuing a career in full stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full stack developer. 
 </p>
 
 <p style='text-align: justify;'>
