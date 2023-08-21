@@ -1,13 +1,13 @@
-<img src="./assets/mario.gif" alt="banner">
+<img src="./assets/bg.gif" alt="banner">
 <div align="center">
     <h1 align="left">😎 Brandon Ban</h1>
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
-**`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|Machine Learning]`**
+**`Web Developer [Undergraduate Student|Full Stack Enthusiast|Malaysian]`**
 
 <p style='text-align: justify;'>
-Welcome to my Github profile, I'm Brandon! As a highly motivated and disciplined computer science student, I am deeply committed to pursuing a career in full stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full stack developer. 
+Welcome to my GitHub profile, I'm Brandon! As a highly motivated and disciplined computer science student, I am deeply committed to pursuing a career in full-stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full-stack developer. 
 </p>
 
 <p style='text-align: justify;'>
@@ -27,6 +27,9 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <a href="https://www.facebook.com/bbkx.0226/">
         <img alt="Facebook" title="Contact me via Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/8985c65b-6ea4-42af-ade2-3fe66b0992b4">
+        <img alt="Google Cloud" title="View my Google Cloud Profile" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    </a>
     <a href="https://github.com/bbkx226">
         <img src="https://komarev.com/ghpvc/?username=bbkx226&color=blueviolet&style=for-the-badge&label=Profile+Views">
     </a>
@@ -40,6 +43,8 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
@@ -54,14 +59,17 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <img src="https://img.shields.io/badge/Firebase-FF9900?style=for-the-badge&logo=firebase&logoColor=white" />
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=whitec" />
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
-    <img src="https://img.shields.io/badge/Sql-018bff?style=for-the-badge&logo=microsoft-access&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </div>
 
 <br />
@@ -76,7 +84,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 
 <h2 align="left">🧰 Top used Languages</h2>
 <div align="center">
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12" />
+<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=6&exclude_repo=JomStay-Hostel,JavaProgrammingPractice-II,JavaProgrammingPractice-I" />
 </div>
 
 <h2 align="left">📌 GitHub Repo</h2>
