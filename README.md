@@ -94,24 +94,27 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/bbkx226/Discord-Bot" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Discord-Bot&hide=stars&show_owner=true"/>
+    <a href="https://github.com/bbkx226/quizbraniac" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=quizbraniac&hide=stars&show_owner=true"/>
     </a>
     <a href="https://github.com/bbkx226/ImageGenerationAI" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=ImageGenerationAI&hide=stars&show_owner=true"/>
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/bbkx226/Full-Stack-2023" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Full-Stack-2023&hide=stars&show_owner=true"/>
+    <a href="https://github.com/bbkx226/AIverse" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AIverse&hide=stars&show_owner=true"/>
     </a>
-    <a href="https://github.com/bbkx226/Leetcode-Daily-Practice" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Leetcode-Daily-Practice&hide=stars&show_owner=true"/>
+    <a href="https://github.com/bbkx226/AI-Summarizer" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=AI-Summarizer&hide=stars&show_owner=true"/>
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/bbkx226/Informatics-Innopolis-2022" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Informatics-Innopolis-2022&hide=stars&show_owner=true"/>
+    <a href="https://github.com/bbkx226/BranCoin" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=BranCoin&hide=stars&show_owner=true"/>
+    </a>
+    <a href="https://github.com/bbkx226/Discord-Bot" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Discord-Bot&hide=stars&show_owner=true"/>
     </a>
 </div>
 
