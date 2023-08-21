@@ -118,7 +118,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <br />
 <h2 align="left">🐍 GitHub Contribution</h2>
 <div align="center">
-    <img src="https://github.com/bbkx226/bbkx226/blob/output/github-contribution-grid-snake.gif?palette=github-dark" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bbkx226/bbkx226/output/github-contribution-grid-snake.svg" />
 </div>
 
 
