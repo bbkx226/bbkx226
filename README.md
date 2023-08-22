@@ -80,9 +80,9 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 
 <h2 align="left">🧰 Top used Languages</h2>
 <div>
-<img align="left" src="./assets/angel.png" width="240" height="240" />
-<img align="right" src="./assets/angel-flipped.png" width="240" height="240" />
-<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=6&exclude_repo=JomStay-Hostel,JavaProgrammingPractice-II,JavaProgrammingPractice-I" />
+    <img align="left" src="./assets/angel.png" width="200" height="200" />
+    <img align="right" src="./assets/angel-flipped.png" width="200" height="200" />
+    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=6&exclude_repo=JomStay-Hostel,JavaProgrammingPractice-II,JavaProgrammingPractice-I" />
 </div>
 
 <h2 align="left">📌 GitHub Repo</h2>
