@@ -1,4 +1,4 @@
-<img src="./assets/bg.gif" alt="banner">
+<img src="./assets/8bitbackground.gif" alt="banner">
 <div align="center">
     <h1 align="left">😎 Brandon Ban</h1>
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
