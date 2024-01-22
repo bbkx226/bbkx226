@@ -4,7 +4,7 @@
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
-**`Web Developer [Undergraduate Student|Full Stack Enthusiast|Malaysian]`**
+**`Full Stack Software Engineer [Undergraduate Student|Malaysian|INTJ-A]`**
 
 <p style='text-align: justify;'>
 Welcome to my GitHub profile, I'm Brandon! As a highly motivated and disciplined computer science student, I am deeply committed to pursuing a career in full-stack development. Through a combination of self-study and collaboration with my peers, I am continuously working to hone my skills and achieve my goal of becoming a full-fledged full-stack developer. 
