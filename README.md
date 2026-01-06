@@ -69,6 +69,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 
+<!--
 <br />
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
@@ -118,6 +119,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=bbkx226&repo=Discord-Bot&hide=stars&show_owner=true"/>
     </a>
 </div>
+-->
 
 <br />
 <h2 align="left">🐍 GitHub Contribution</h2>
